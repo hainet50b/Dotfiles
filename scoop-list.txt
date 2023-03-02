@@ -1,0 +1,17 @@
+
+Name            Version          Source
+----            -------          ------
+7zip            22.01            main
+busybox         4784-g5507c8744  main
+curl            7.87.0_2         main
+erlang          25.2.2           main
+git             2.38.1.windows.1 main
+gradle          7.6              main
+make            4.4              main
+maven           3.8.6            main
+nkf             2.1.5.1          jp
+openjdk11       11.0.2-9         java
+openjdk17       17.0.2-8         java
+openjdk8-redhat 8u342-b07        java
+vim             9.0              main
+
