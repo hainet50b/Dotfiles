@@ -1,0 +1,2 @@
+sudo Restart-Service vmcompute
+
