@@ -13,5 +13,6 @@ nkf             2.1.5.1          jp
 openjdk11       11.0.2-9         java
 openjdk17       17.0.2-8         java
 openjdk8-redhat 8u342-b07        java
+sudo            0.2020.01.26     main
 vim             9.0              main
 
