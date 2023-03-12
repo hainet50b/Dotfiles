@@ -2,6 +2,7 @@
 Name            Version          Source
 ----            -------          ------
 7zip            22.01            main
+azure-cli       2.46.0           main
 busybox         4784-g5507c8744  main
 curl            7.87.0_2         main
 dark            3.11.2           main
@@ -10,6 +11,7 @@ git             2.38.1.windows.1 main
 gradle          7.6              main
 make            4.4              main
 maven           3.8.6            main
+mysql           8.0.32           main
 nkf             2.1.5.1          jp
 openjdk11       11.0.2-9         java
 openjdk17       17.0.2-8         java
