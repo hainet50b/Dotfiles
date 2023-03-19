@@ -6,8 +6,14 @@ set smartcase
 # 検索結果をハイライトする
 set hlsearch
 
+# カーソル行を強調表示する
+set cursorline
+
 # 文字列をクリップボードにコピー／ペーストする
 set clipboard+=unnamed
+
+# ビープ音を可視化する
+set visualbell
 
 # スクロールのオフセットを指定する
 set scrolloff=10
