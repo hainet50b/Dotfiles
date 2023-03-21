@@ -6,6 +6,9 @@ set smartcase
 # 検索結果をハイライトする
 set hlsearch
 
+# バックスペースを拡張する
+set backspace=indent,eol,start
+
 # カーソル行を強調表示する
 set cursorline
 
