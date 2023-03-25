@@ -1,0 +1,3 @@
+Experimental    ExtensionType    Name    Path                                        Preview    Version
+--------------  ---------------  ------  ------------------------------------------  ---------  ---------
+False           whl              spring  C:\Users\haine\.azure\cliextensions\spring  False      1.7.0
