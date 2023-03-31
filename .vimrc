@@ -8,18 +8,20 @@ set hlsearch
 
 # バックスペースを拡張する
 set backspace=indent,eol,start
-
-# カーソル行を強調表示する
-set cursorline
+# インサートモードでfdを入力したらESCを呼び出す
+inoremap <silent> fd <ESC>
 
 # 文字列をクリップボードにコピー／ペーストする
 set clipboard+=unnamed
+
+# 行番号を表示する
+set number
+
+# カーソル行を強調表示する
+set cursorline
 
 # ビープ音を可視化する
 set visualbell
 
 # スクロールのオフセットを指定する
 set scrolloff=10
-
-# インサートモードでfdを入力したらESCを呼び出す
-inoremap <silent> fd <ESC>
