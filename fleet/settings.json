@@ -1,0 +1,12 @@
+{
+    "theme": "dark",
+    "zoomLevel": 1.0,
+    "editor.renderWhitespace": "All",
+    "autoEnabledSmartMode": true,
+    "restoreWorkspacesOnStartup": false,
+    "showEmptyStateOnLastClosedWindow": false,
+    "showShortcuts": false,
+    "vimEmulationEnabled": true,
+    "editor.caretShape": "Vertical",
+    "goto_panel.showShortcuts": true
+}
