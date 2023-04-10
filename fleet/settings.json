@@ -8,5 +8,6 @@
     "showShortcuts": false,
     "vimEmulationEnabled": true,
     "editor.caretShape": "Vertical",
-    "goto_panel.showShortcuts": true
+    "goto_panel.showShortcuts": true,
+    "trimTrailingSpacesOnSave": false
 }
