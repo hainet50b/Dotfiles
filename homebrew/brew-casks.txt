@@ -1,0 +1,6 @@
+cheatsheet
+docker
+jetbrains-toolbox
+kindle
+mos
+parallels

@@ -1,0 +1,7 @@
+azure-cli
+colima
+instantclienttap/instantclient/instantclient-sqlplus
+maven
+mysql-client
+openjdk@17
+redis
