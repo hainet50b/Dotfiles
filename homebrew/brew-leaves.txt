@@ -5,3 +5,4 @@ maven
 mysql-client
 openjdk@17
 redis
+telnet
