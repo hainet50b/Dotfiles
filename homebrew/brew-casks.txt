@@ -4,3 +4,4 @@ jetbrains-toolbox
 kindle
 parallels
 via
+warp
