@@ -1,7 +1,0 @@
-
-Name Source
----- ------
-java https://github.com/ScoopInstaller/Java
-jp   https://github.com/dooteeen/scoop-for-jp
-main https://github.com/ScoopInstaller/Main
-
