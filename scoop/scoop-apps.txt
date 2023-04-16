@@ -6,6 +6,8 @@ curl
 dark
 erlang
 git
+googlechrome
+googlechrome-canary
 gradle
 innounp
 jetbrains-toolbox
@@ -14,6 +16,7 @@ jmeter
 jq
 make
 maven
+Meslo-NF
 mysql
 nkf
 openjdk11
