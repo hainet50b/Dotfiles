@@ -1,1 +1,8 @@
-sudo New-Item -Type SymbolicLink $HOME\_ideavimrc -Value $HOME\Dotfiles\.vimrc
+$target = "$HOME\_ideavimrc"
+$source = "$HOME\Dotfiles\vim\.vimrc"
+
+if (Test-Path $target) {
+    Remove-Item $target -Confirm
+}
+
+sudo New-Item -Type SymbolicLink $target -Value $source
