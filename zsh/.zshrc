@@ -3,3 +3,5 @@ export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"
 export PATH="$HOME/.docker/bin:$PATH"
 
 alias ll='ls -la'
+
+eval "$(starship init zsh)"

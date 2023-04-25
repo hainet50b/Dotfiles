@@ -5,4 +5,6 @@ maven
 mysql-client
 openjdk@17
 redis
+rust
+starship
 telnet
