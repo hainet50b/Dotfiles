@@ -12,7 +12,7 @@ set backspace=indent,eol,start
 inoremap <silent> fd <ESC>
 
 " 文字列をクリップボードにコピー／ペーストする
-set clipboard+=unnamed
+" set clipboard+=unnamed
 
 " 行番号を表示する
 set number
