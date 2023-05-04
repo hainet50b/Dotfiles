@@ -1,10 +1,13 @@
 azure-cli
 colima
 instantclienttap/instantclient/instantclient-sqlplus
+jenv
 maven
 mysql-client
+openjdk@11
 openjdk@17
 redis
 rust
 starship
 telnet
+tree
