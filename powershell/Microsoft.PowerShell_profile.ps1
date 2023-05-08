@@ -5,4 +5,6 @@ function Prompt {
   "PS $(Get-Date -Format "HH:mm:ss") $(Get-Location)> "
 }
 
+function ll { ls | Out-String -Stream }
+
 Invoke-Expression (&starship init powershell)
