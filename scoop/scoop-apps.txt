@@ -9,14 +9,15 @@ git
 googlechrome
 googlechrome-canary
 gradle
+Hack-NF
 innounp
+jenv
 jetbrains-toolbox
 jid
 jmeter
 jq
 make
 maven
-Meslo-NF
 mysql
 nkf
 openjdk11
