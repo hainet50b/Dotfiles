@@ -6,8 +6,10 @@ maven
 mysql-client
 openjdk@11
 openjdk@17
+openssl@3
+pkg-config
 redis
-rust
+rustup-init
 starship
 telnet
 tree
