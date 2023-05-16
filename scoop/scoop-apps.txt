@@ -25,6 +25,7 @@ openjdk17
 openjdk8-redhat
 openssl
 python
+rustup
 slack
 starship
 sudo
