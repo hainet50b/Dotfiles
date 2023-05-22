@@ -34,4 +34,5 @@ sudo
 vcredist2022
 vim
 windows-terminal
+winmerge
 zoom
