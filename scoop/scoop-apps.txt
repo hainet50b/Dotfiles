@@ -24,6 +24,8 @@ openjdk11
 openjdk17
 openjdk8-redhat
 openssl
+oracle-instant-client
+oracle-instant-client-sqlplus
 python
 rustup
 slack
@@ -32,4 +34,5 @@ sudo
 vcredist2022
 vim
 windows-terminal
+winmerge
 zoom
