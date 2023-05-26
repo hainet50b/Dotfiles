@@ -1,7 +1,6 @@
 cheatsheet
 docker
 font-hack-nerd-font
-google-chrome
 jetbrains-toolbox
 kindle
 parallels
