@@ -1,5 +1,8 @@
 alias ll='ls -la'
 
+# sed
+alias sed=gsed
+
 # Docker
 export PATH="$HOME/.docker/bin:$PATH"
 

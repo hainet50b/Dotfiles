@@ -1,5 +1,6 @@
 azure-cli
 colima
+gnu-sed
 instantclienttap/instantclient/instantclient-sqlplus
 jenv
 maven
