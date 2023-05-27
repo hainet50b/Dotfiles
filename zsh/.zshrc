@@ -10,5 +10,8 @@ eval "$(jenv init -)"
 # MySQL
 export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"
 
+# TiDB
+export PATH=/Users/hainet50b/.tiup/bin:$PATH
+
 # Starship
 eval "$(starship init zsh)"
