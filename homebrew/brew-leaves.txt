@@ -1,3 +1,4 @@
+awscli
 azure-cli
 colima
 gnu-sed
@@ -5,6 +6,7 @@ instantclienttap/instantclient/instantclient-sqlplus
 jenv
 maven
 mysql-client
+nkf
 openjdk@11
 openjdk@17
 openssl@3
