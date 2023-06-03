@@ -1,6 +1,7 @@
 awscli
 azure-cli
 colima
+dos2unix
 gnu-sed
 instantclienttap/instantclient/instantclient-sqlplus
 jenv
