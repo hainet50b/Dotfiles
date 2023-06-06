@@ -4,5 +4,6 @@ font-hack-nerd-font
 jetbrains-toolbox
 kindle
 parallels
+slack
 via
 warp
