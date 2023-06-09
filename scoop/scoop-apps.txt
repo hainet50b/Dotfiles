@@ -2,6 +2,7 @@
 aria2
 azure-cli
 busybox
+concourse-fly
 curl
 dark
 erlang
