@@ -1,5 +1,6 @@
 7zip
 aria2
+aws
 azure-cli
 busybox
 concourse-fly
@@ -27,6 +28,7 @@ openjdk8-redhat
 openssl
 oracle-instant-client
 oracle-instant-client-sqlplus
+plantuml
 python
 rustup
 slack
