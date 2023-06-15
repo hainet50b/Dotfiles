@@ -12,6 +12,7 @@ openjdk@11
 openjdk@17
 openssl@3
 pkg-config
+plantuml
 redis
 rustup-init
 starship
