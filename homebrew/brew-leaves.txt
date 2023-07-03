@@ -8,6 +8,7 @@ jenv
 maven
 mysql-client
 nkf
+nvm
 openjdk@11
 openjdk@17
 openssl@3
