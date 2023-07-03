@@ -6,7 +6,9 @@ busybox
 concourse-fly
 curl
 dark
+dos2unix
 erlang
+file
 git
 googlechrome
 googlechrome-canary
@@ -22,6 +24,7 @@ make
 maven
 mysql
 nkf
+nvm
 openjdk11
 openjdk17
 openjdk8-redhat
