@@ -3,6 +3,7 @@ aria2
 aws
 azure-cli
 busybox
+cloudfoundry-cli
 concourse-fly
 curl
 dark
@@ -32,6 +33,7 @@ openssl
 oracle-instant-client
 oracle-instant-client-sqlplus
 plantuml
+postman
 python
 rustup
 slack
