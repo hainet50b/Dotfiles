@@ -6,5 +6,6 @@ kindle
 parallels
 slack
 via
+visual-studio-code
 warp
 zoom
