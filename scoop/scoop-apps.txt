@@ -41,6 +41,8 @@ starship
 sudo
 vcredist2022
 vim
+visualvm
+vscode
 windows-terminal
 winmerge
 zoom
