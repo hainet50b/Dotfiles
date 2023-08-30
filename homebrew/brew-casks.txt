@@ -2,6 +2,7 @@ cheatsheet
 docker
 font-hack-nerd-font
 jetbrains-toolbox
+karabiner-elements
 kindle
 parallels
 slack
