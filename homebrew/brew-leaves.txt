@@ -12,9 +12,9 @@ nkf
 nvm
 openjdk@11
 openjdk@17
-openssl@3
 pkg-config
 plantuml
+python-tk@3.11
 redis
 rustup-init
 starship
