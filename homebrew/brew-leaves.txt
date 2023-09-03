@@ -6,12 +6,12 @@ dumpling
 gnu-sed
 instantclienttap/instantclient/instantclient-sqlplus
 jenv
+jmeter
 maven
 mysql-client
 nkf
 nvm
 openjdk@11
-openjdk@17
 pkg-config
 plantuml
 python-tk@3.11
