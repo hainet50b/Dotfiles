@@ -3,6 +3,7 @@ azure-cli
 colima
 dos2unix
 dumpling
+gcviewer
 gnu-sed
 instantclienttap/instantclient/instantclient-sqlplus
 jenv
