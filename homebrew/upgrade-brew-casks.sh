@@ -1,4 +1,10 @@
+exclusions=(
+  "parallels"
+)
+
 cat ./brew-casks.txt | while read cask
 do
-  brew upgrade --cask $cask
+  if [[ ! ${exclusions[@]} =~ $cask ]]; then
+    brew upgrade --cask $cask
+  fi
 done
