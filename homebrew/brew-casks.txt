@@ -4,6 +4,7 @@ font-hack-nerd-font
 jetbrains-toolbox
 karabiner-elements
 kindle
+mysqlworkbench
 parallels
 slack
 via
