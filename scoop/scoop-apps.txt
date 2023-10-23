@@ -29,6 +29,7 @@ nkf
 nvm
 openjdk11
 openjdk17
+openjdk21
 openjdk8-redhat
 openssl
 oracle-instant-client
