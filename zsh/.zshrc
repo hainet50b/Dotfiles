@@ -18,6 +18,9 @@ export NVM_DIR="$HOME/.nvm"
 # MySQL
 export PATH="/opt/homebrew/opt/mysql-client/bin:$PATH"
 
+# libpq(PostgreSQL)
+export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
+
 # TiDB
 export PATH=/Users/hainet50b/.tiup/bin:$PATH
 
