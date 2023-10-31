@@ -1,4 +1,5 @@
 7zip
+7zip19.00-helper
 aria2
 aws
 azure-cli
@@ -35,6 +36,7 @@ openssl
 oracle-instant-client
 oracle-instant-client-sqlplus
 plantuml
+postgresql
 postman
 python
 rustup
