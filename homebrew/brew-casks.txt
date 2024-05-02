@@ -6,7 +6,6 @@ jetbrains-toolbox
 karabiner-elements
 kindle
 mysqlworkbench
-nvidia-geforce-now
 parallels
 slack
 via
