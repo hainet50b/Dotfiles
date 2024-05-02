@@ -1,9 +1,12 @@
 awscli
 azure-cli
+cffi
 colima
+docutils
 dos2unix
 dumpling
 gcviewer
+gdbm
 gnu-sed
 instantclienttap/instantclient/instantclient-sqlplus
 jenv
@@ -14,11 +17,13 @@ mysql-client
 nkf
 nvm
 openjdk@11
+openjdk@17
 pkg-config
 plantuml
 python-tk@3.11
 redis
 rustup-init
+six
 starship
 telnet
 tree
