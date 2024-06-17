@@ -11,9 +11,9 @@ dark
 dos2unix
 erlang
 file
+gcc
 git
 googlechrome
-googlechrome-canary
 gradle
 Hack-NF
 innounp
@@ -25,7 +25,6 @@ jq
 make
 maven
 mysql
-mysql-workbench
 nkf
 nvm
 openjdk11
@@ -43,6 +42,7 @@ rustup
 slack
 starship
 sudo
+telnet
 vcredist2022
 vim
 visualvm
