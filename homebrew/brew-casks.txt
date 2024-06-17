@@ -1,3 +1,4 @@
+blu-ray-player-pro
 cheatsheet
 docker
 font-hack-nerd-font
