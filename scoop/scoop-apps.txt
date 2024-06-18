@@ -43,6 +43,7 @@ slack
 starship
 sudo
 telnet
+terminal-icons
 vcredist2022
 vim
 visualvm
