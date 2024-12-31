@@ -1,9 +1,11 @@
 7zip
 7zip19.00-helper
+ant
 aria2
 aws
 azure-cli
 busybox
+cfr
 cloudfoundry-cli
 concourse-fly
 curl
@@ -22,10 +24,12 @@ jetbrains-toolbox
 jid
 jmeter
 jq
+kotlin
 make
 maven
 mysql
 nkf
+nomad
 nvm
 openjdk11
 openjdk17
@@ -39,7 +43,6 @@ postgresql
 postman
 python
 rustup
-slack
 starship
 sudo
 telnet

@@ -1,6 +1,6 @@
+main       https://github.com/ScoopInstaller/Main
 extras     https://github.com/ScoopInstaller/Extras
+versions   https://github.com/ScoopInstaller/Versions
+nerd-fonts https://github.com/matthewjberger/scoop-nerd-fonts
 java       https://github.com/ScoopInstaller/Java
 jp         https://github.com/dooteeen/scoop-for-jp
-main       https://github.com/ScoopInstaller/Main
-nerd-fonts https://github.com/matthewjberger/scoop-nerd-fonts
-versions   https://github.com/ScoopInstaller/Versions
