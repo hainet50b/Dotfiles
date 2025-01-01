@@ -1,14 +1,10 @@
 blu-ray-player-pro
+chatgpt
 cheatsheet
-docker
 font-hack-nerd-font
-jetbrains-toolbox
 karabiner-elements
 kindle
-mysqlworkbench
 parallels
 slack
-via
-visual-studio-code
 warp
 zoom
