@@ -1,1 +1,8 @@
-sudo New-Item -Type SymbolicLink "$HOME\AppData\Local\Microsoft\Windows Terminal\state.json" -Value $HOME\Dotfiles\windows-terminal\state.json
+$symlink = "$HOME\scoop\apps\windows-terminal\current\settings\state.json"
+$target = "$HOME\Dotfiles\windows-terminal\state.json"
+
+if (Test-Path $symlink) {
+    Remove-Item $symlink -Force
+}
+
+New-Item -Type SymbolicLink $symlink -Value $target
