@@ -7,6 +7,13 @@ chmod +x ./install.sh
 ./install.sh
 ```
 
+## Homebrew管理対象を一括アップグレードする
+
+```
+chmod +x ./upgrade.sh
+./upgrade.sh
+```
+
 ## アプリケーションとリポジトリの一覧をファイルに出力する
 
 ```
