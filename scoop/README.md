@@ -21,7 +21,7 @@
 ## Scoop管理対象をGitHubへプッシュする
 
 ```
-git add .\scoop-apps.txt .\scoop-buckets.txt
+git add .\scoop-buckets.txt .\scoop-apps.txt
 git diff HEAD
 git commit -m "Note something"
 git push origin main
