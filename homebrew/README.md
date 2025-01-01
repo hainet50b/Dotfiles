@@ -24,7 +24,7 @@ chmod +x ./print-redirect.sh
 ## Homebrew管理対象をGitHubへプッシュする
 
 ```
-git add ./brew-leaves.txt ./brew-casks.txt ./brew-repositories.txt
+git add ./brew-repositories.txt ./brew-leaves.txt ./brew-casks.txt
 git diff HEAD
 git commit -m "Note something"
 git push origin main
