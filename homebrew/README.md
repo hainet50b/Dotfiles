@@ -3,21 +3,15 @@
 ## Homebrew管理対象を一括インストールする
 
 ```
-chmod +x install.sh
+chmod +x ./install.sh
 ./install.sh
 ```
 
-## アプリケーション一覧をファイルに出力する
+## アプリケーションとリポジトリの一覧をファイルに出力する
 
 ```
-./print-brew-leaves.sh > brew-leaves.txt
-./print-brew-casks.sh > brew-casks.txt
-```
-
-## リポジトリ一覧をファイルに出力する
-
-```
-./print-brew-repositories.sh > brew-repositories.txt
+chmod +x ./print-redirect.sh
+./print-redirect.sh
 ```
 
 ## Homebrew管理対象をGitHubへプッシュする
