@@ -3,8 +3,7 @@
 ## Scoop管理対象を一括インストールする
 
 ```
-.\install-buckets.ps1
-.\install-apps.ps1
+.\install.ps1
 ```
 
 ## アプリケーション一覧をファイルに出力する
