@@ -1,8 +1,8 @@
-$target = "$HOME\_vimrc" 
+$symlink = "$HOME\_vimrc" 
 $source = "$HOME\Dotfiles\vim\.vimrc"
 
-if (Test-Path $target) {
-    Remove-Item $target -Confirm
+if (Test-Path $symlink) {
+    Remove-Item $symlink -Confirm
 }
 
-sudo New-Item -Type SymbolicLink $target -Value $source
+New-Item -Type SymbolicLink $symlink -Value $source
