@@ -1,4 +1,4 @@
-Starship設定管理スクリプト
+# Starship設定管理スクリプト
 
 ## Starship設定を適用する
 
