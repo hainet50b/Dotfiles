@@ -1,3 +1,4 @@
-foreach($app in Get-Content ~/Dotfiles/scoop/scoop-apps.txt) {
+foreach($app in Get-Content .\scoop-apps.txt) {
     scoop install $app
 }
+
