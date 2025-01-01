@@ -6,16 +6,10 @@
 .\install.ps1
 ```
 
-## アプリケーション一覧をファイルに出力する
+## アプリケーションとバケットの一覧をファイルに出力する
 
 ```
-.\print-scoop-apps.ps1 > .\scoop-apps.txt
-```
-
-## バケット一覧をファイルに出力する
-
-```
-.\print-scoop-buckets.ps1 > .\scoop-buckets.txt
+.\print-redirect.ps1
 ```
 
 ## Scoop管理対象をGitHubへプッシュする
