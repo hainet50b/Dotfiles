@@ -1,3 +1,5 @@
 BetterTouchTool
 Yoink
 Paste
+AdGuard for Safari
+
