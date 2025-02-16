@@ -1,7 +1,8 @@
-target=~/.ideavimrc
+symlink=~/.ideavimrc
+source=~/Dotfiles/vim/.vimrc
 
-if [ -e $target ]; then
-  rm -i $target
+if [ -e $symlink ]; then
+  rm -i $symlink
 fi
 
-ln -s ~/Dotfiles/vim/.vimrc $target
+ln -s $source $symlink
