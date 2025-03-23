@@ -11,6 +11,9 @@ microsoft-auto-update
 microsoft-excel
 parallels
 slack
+temurin
+temurin@21
+temurin@8
 visual-studio-code
 warp
 zoom
