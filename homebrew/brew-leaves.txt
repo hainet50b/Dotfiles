@@ -1,1 +1,5 @@
+docker
+jenv
+maven
+openjdk@21
 starship

@@ -2,9 +2,14 @@ blu-ray-player-pro
 chatgpt
 cheatsheet
 font-hack-nerd-font
+google-chrome
+jetbrains-toolbox
 karabiner-elements
 kindle
+microsoft-auto-update
+microsoft-excel
 parallels
 slack
+visual-studio-code
 warp
 zoom
