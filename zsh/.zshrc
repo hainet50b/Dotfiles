@@ -4,6 +4,6 @@ alias ll='ls -la'
 eval "$(starship init zsh)"
 
 # jEnv
-echo 'export PATH="$HOME/.jenv/bin:$PATH"' >> ~/.zshrc
-echo 'eval "$(jenv init -)"' >> ~/.zshrc
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
 
