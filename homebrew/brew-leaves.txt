@@ -1,3 +1,4 @@
+docker-compose
 jenv
 maven
 openjdk@21
