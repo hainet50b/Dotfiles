@@ -6,7 +6,6 @@ font-hack-nerd-font
 google-chrome
 jetbrains-toolbox
 karabiner-elements
-kindle
 microsoft-auto-update
 microsoft-excel
 parallels
