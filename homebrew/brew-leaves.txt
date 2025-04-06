@@ -1,5 +1,6 @@
 docker-compose
 jenv
 maven
+nikto
 nvm
 starship

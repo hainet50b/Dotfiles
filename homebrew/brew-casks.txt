@@ -16,4 +16,5 @@ temurin@21
 temurin@8
 visual-studio-code
 warp
+zap
 zoom
